@@ -1,2 +1,0 @@
-model_checkpoint_path: "last_attempt_deep_rnn_model_fixed_data.ckpt"
-all_model_checkpoint_paths: "last_attempt_deep_rnn_model_fixed_data.ckpt"
